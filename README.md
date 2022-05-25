@@ -63,6 +63,8 @@ Covered the following data structure topics:
 
 Covered the following sorting problems:
 
-- Bubble Sort - O(n^2)
-- Selection Sort - O(n^2)
-- Merge Sort - O(n log n)
+| Type           | Time Complexity |
+| -------------- | --------------- |
+| Bubble Sort    | O(n^2)          |
+| Selection Sort | O(n^2)          |
+| Merge Sort     | O(n log n)      |
